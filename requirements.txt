@@ -1,0 +1,8 @@
+streamlit>=1.18
+yfinance
+pandas
+numpy
+plotly
+python-dateutil
+pandas_market_calendars
+scikit-learn
